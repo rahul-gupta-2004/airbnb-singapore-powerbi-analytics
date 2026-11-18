@@ -17,7 +17,7 @@ An advanced, high-end Power BI analytics dashboard exploring Singapore’s short
 ---
 
 ## 🎥 Demo Video
-- - **Watch Walk-through:** [Airbnb Singapore Dashboard Demo](https://drive.google.com/file/d/1CmHhpgYlxjL4qgHUq95VxNEr1gUIQoX_/view?usp=sharing)
+- **Watch Walk-through:** [Airbnb Singapore Dashboard Demo](https://drive.google.com/file/d/1CmHhpgYlxjL4qgHUq95VxNEr1gUIQoX_/view?usp=sharing)
 - Overview: A complete video walkthrough covering the interactive multi-page dashboard, regional map filtering, tooltips, and DAX measure performance.
 
 ---

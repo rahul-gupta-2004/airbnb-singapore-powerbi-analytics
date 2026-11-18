@@ -1,4 +1,4 @@
-# 🇸🇬 Airbnb Singapore: Short-Term Hospitality & Pricing Intelligence
+# Airbnb Singapore: Short-Term Hospitality & Pricing Intelligence
 
 An advanced, high-end Power BI analytics dashboard exploring Singapore’s short-term rental market dynamics, pricing distributions, room-type market shares, and host performance under regulatory constraints (Singapore's 90-day minimum stay cap).
 
@@ -12,13 +12,13 @@ An advanced, high-end Power BI analytics dashboard exploring Singapore’s short
 ---
 
 ## 📌 Data Source
-* Data compiled and processed from [Inside Airbnb](https://insideairbnb.com/get-the-data/)[cite: 20].
+* Data compiled and processed from [Inside Airbnb](https://insideairbnb.com/get-the-data/)
 
 ---
 
 ## 🎥 Demo Video
-- **Watch Walk-through:** [Airbnb Singapore Dashboard Demo]((https://drive.google.com/file/d/1CmHhpgYlxjL4qgHUq95VxNEr1gUIQoX_/view?usp=sharing))
-- *Overview:* A complete video walkthrough covering the interactive multi-page dashboard, regional map filtering, tooltips, and DAX measure performance.
+- - **Watch Walk-through:** [Airbnb Singapore Dashboard Demo](https://drive.google.com/file/d/1CmHhpgYlxjL4qgHUq95VxNEr1gUIQoX_/view?usp=sharing)
+- Overview: A complete video walkthrough covering the interactive multi-page dashboard, regional map filtering, tooltips, and DAX measure performance.
 
 ---
 

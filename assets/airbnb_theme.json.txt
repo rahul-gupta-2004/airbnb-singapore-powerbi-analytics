@@ -1,0 +1,17 @@
+{
+  "name": "Airbnb Singapore Theme",
+  "dataColors": ["#EB4C60", "#C0C0C0", "#222222", "#FF8A98", "#767676", "#484848"],
+  "background": "#F7F7F7",
+  "foreground": "#000000",
+  "tableAccent": "#EB4C60",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#EBEBEB" } }, "radius": 12 }],
+        "dropShadow": [{ "show": true, "color": { "solid": { "color": "#E6E6E6" } }, "position": "Outer", "preset": "BottomRight" }],
+        "title": [{ "fontColor": { "solid": { "color": "#000000" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 13 }]
+      }
+    }
+  }
+}
